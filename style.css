@@ -1,0 +1,40 @@
+body {
+    background-color: #ffe6e6;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+h1 {
+    color: #ff3399;
+    font-size: 2.5rem;
+}
+
+.cake-img {
+    width: 300px;
+    border-radius: 50%;
+    margin: 20px 0;
+}
+
+button {
+    background-color: #ff3399;
+    color: white;
+    border: none;
+    padding: 15px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #cc0066;
+}
